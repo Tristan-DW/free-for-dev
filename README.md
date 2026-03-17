@@ -18,40 +18,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux" />
-
-<br/>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub last commit](https://img.shields.io/github/last-commit/Tristan-DW/free-for-dev?style=for-the-badge&color=6e40c9)
-![GitHub stars](https://img.shields.io/github/stars/Tristan-DW/free-for-dev?style=for-the-badge&color=f0883e)
-![GitHub issues](https://img.shields.io/github/issues/Tristan-DW/free-for-dev?style=for-the-badge&color=da3633)
-![License](https://img.shields.io/badge/license-MIT-238636?style=for-the-badge)
-
-
-> **A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev**
-
-</div>
-
----
-
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub last commit](https://img.shields.io/github/last-commit/Tristan-DW/free-for-dev?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Tristan-DW/free-for-dev?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/Tristan-DW/free-for-dev?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
-
-
-> **A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev**
-
-</div>
-
----
-
 Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
 
 This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.
@@ -64,7 +30,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 
 **NOTE**: This list is only for as-a-Service offerings, not for self-hosted software. To be eligible, a service must offer a free tier, not just a free trial. The free tier must be for at least a year if it is time-bucketed. We also consider the free tier from a security perspective, so SSO is fine, but I will not accept services that restrict TLS to paid-only tiers.
 
-# Table of Contents
 
    * [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
    * [Cloud management solutions](#cloud-management-solutions)
