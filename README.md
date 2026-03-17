@@ -30,7 +30,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 
 **NOTE**: This list is only for as-a-Service offerings, not for self-hosted software. To be eligible, a service must offer a free tier, not just a free trial. The free tier must be for at least a year if it is time-bucketed. We also consider the free tier from a security perspective, so SSO is fine, but I will not accept services that restrict TLS to paid-only tiers.
 
-
    * [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
    * [Cloud management solutions](#cloud-management-solutions)
    * [Analytics, Events, and Statistics](#analytics-events-and-statistics)
@@ -524,7 +523,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [tabnine.com](https://www.tabnine.com/)  -  Tabnine helps developers create better software faster by providing insights learned from all the code in the world. Plugin available.
   * [v0.dev](https://v0.dev/)  -  v0 uses AI models to generate code based on simple text prompts. It generates copy-and-paste friendly React code based on shadcn/ui and Tailwind CSS that people can use in their projects. Each generation takes at minimum 30 credits. You start up with 1200 credits, and get 200 free credits every month.
 
-
 **[️ Back to Top](#table-of-contents)**
 
 ## Code Quality
@@ -606,7 +604,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Make](https://www.make.com/en)  -  The workflow automation tool lets you connect apps and automate workflows using UI. It supports many apps and the most popular APIs. Free for public GitHub repositories, and free tier with 100 Mb, 1000 Operations, and 15 minutes of minimum interval.
   * [Spacelift](https://spacelift.io/) - Management platform for Infrastructure as Code. Free plan features: IaC collaboration, Terraform module registry, ChatOps integration, Continuous resource compliance with Open Policy Agent, SSO with SAML 2.0, and access to public worker pools: up to 200 minutes/month
   * [microtica.com](https://microtica.com/) - Startup environments with ready-made infrastructure components, deploy apps on AWS for free, and support your production workloads. The free tier includes 1 Environment (on your AWS account), 2 Kubernetes Services, 100 build minutes per month, and 20 monthly deployments.
-
 
 **[️ Back to Top](#table-of-contents)**
 
@@ -697,7 +694,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Escape GraphQL Quickscan](https://escape.tech/) - One-click security scan of your GraphQL endpoints. Free, no login required.
   * [HasMySecretLeaked](https://gitguardian.com/hasmysecretleaked) - Search across 20 million exposed secrets in public GitHub repositories, gists, issues,and comments for Free
 
-
 **[️ Back to Top](#table-of-contents)**
 
 ## Authentication, Authorization, and User Management
@@ -726,7 +722,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [ZITADEL Cloud](https://zitadel.com)  -  A turnkey user and access management that works for you and supports multi-tenant (B2B) use cases. Free for up to 25,000 authenticated requests, with all security features (no paywall for OTP, Passwordless, Policies, and so on).
   * [PropelAuth](https://propelauth.com)  -  A Sell to companies of any size immediately with a few lines of code, free up to 200 users and 10k Transactional Emails (with a watermark branding: "Powered by PropelAuth").
   * [Logto](https://logto.io/) - Develop, secure, and manage user identities of your product - for both authentication and authorization. Free for up to 5,000 MAUs with open-source self-hosted option available.
-
 
 **[️ Back to Top](#table-of-contents)**
 
@@ -1188,7 +1183,6 @@ Update Time, five active automations, webhooks.
   * [ILLA Cloud](https://www.illacloud.com/)  -  ILLA Cloud - A robust open-source low-code platform for developers to build internal tools. By using ILLA's library of Components and Actions, developers can save massive amounts of time on building tools. Free for 5 team members.
   * [outsystems.com](https://www.outsystems.com/)  -  Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1 GB database
 
-
 **[️ Back to Top](#table-of-contents)**
 
 ## Web Hosting
@@ -1305,8 +1299,6 @@ Update Time, five active automations, webhooks.
    * [filess.io](https://filess.io) - filess.io is a platform where you can create one database of the following DBMS for free: MySQL, MariaDB, MongoDB, and PostgreSQL.
    * [xata.io](https://xata.io) - Xata is a serverless database with built-in powerful search and analytics. One API, multiple type-safe client libraries, and optimized for your development workflow. The free-forever tier is sufficient for hobby developers which comes with three units of Xata, please refer to the website for unit definition.
    * [8base.com](https://www.8base.com/) - 8base is a full-stack low-code development platform built for JavaScript developers built on top of MySQL and GraphQL and serverless backend-as-a-service. It allows you to start building web applications quickly using a UI app builder and scale quickly, The Free tier includes rows: 2,500, Storage: 500, Serverless computing: 1Gb/h, and client app users: 5.
-
-
 
 **[️ Back to Top](#table-of-contents)**
 
@@ -1454,7 +1446,6 @@ Update Time, five active automations, webhooks.
    * [internxt.com](https://internxt.com) – Internxt Drive is a zero-knowledge file storage service based on absolute privacy and uncompromising security. Sign up and get 10 GB for free, forever!
    * [degoo.com](https://degoo.com/) – AI based cloud storage with free up to 20 GB, three devices, 5 GB referral bonus (90 days account inactivity).
 
-
 **[️ Back to Top](#table-of-contents)**
 
 ## Design and UI
@@ -1565,7 +1556,6 @@ Update Time, five active automations, webhooks.
   * [UI Garage](https://uigarage.net/) - [Mobile and web screenshots] Daily UI inspiration & patterns for designers and developers to find inspiration, tools, and the best resources for your project.
   * [Refero](https://refero.design/) - [Web screenshots] Tagged and searchable collection of design references from great web applications.
 
-
 **[️ Back to Top](#table-of-contents)**
 
 ## Data Visualization on Maps
@@ -1654,7 +1644,6 @@ Update Time, five active automations, webhooks.
    * [WebComponents.dev](https://webcomponents.dev/)  -  In-browser IDE to code web components in isolation with 58 templates available, supporting stories, and tests.
    * [PHPSandbox](https://phpsandbox.io/)  -  Online development environment for PHP
    * [WebDB](https://webdb.app) - Free Efficient Database IDE. Featuring Server Discovery, ERD, Data Generator, AI, NoSQL Structure Manager, Database Versioning and many more.
-
 
 **[️ Back to Top](#table-of-contents)**
 
@@ -1932,24 +1921,7 @@ HTML Themes and UI Kits to create your applications faster!
   * [SimpleRestore](https://simplerestore.io) - Hassle-free MySQL backup restoration. Restore MySQL backups to any remote database without code or a server.
   * [360Converter](https://www.360converter.com/) - Free tier useful website to convert: Video to Text && Audio to Text && Speech to Text && Real-time Audio to Text && YouTube Video to Text && add Video Subtitle. Maybe it will be helpful in a short video conversion or in a short youtube tutorial:)
 
-
 **[️ Back to Top](#table-of-contents)**
-
----
-
-<div align="center">
-
-**Made with love by [Tristan Wentzel](https://github.com/Tristan-DW)**
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Built by <a href="https://github.com/Tristan-DW">Tristan Wentzel</a></sub>
-
-</div>
 
 ---
 
