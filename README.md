@@ -20,6 +20,25 @@
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux" />
+
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub last commit](https://img.shields.io/github/last-commit/Tristan-DW/free-for-dev?style=for-the-badge&color=6e40c9)
+![GitHub stars](https://img.shields.io/github/stars/Tristan-DW/free-for-dev?style=for-the-badge&color=f0883e)
+![GitHub issues](https://img.shields.io/github/issues/Tristan-DW/free-for-dev?style=for-the-badge&color=da3633)
+![License](https://img.shields.io/badge/license-MIT-238636?style=for-the-badge)
+
+
+> **A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev**
+
+</div>
+
+---
+
+<div align="center">
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Tristan-DW/free-for-dev?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/Tristan-DW/free-for-dev?style=for-the-badge)
@@ -1964,5 +1983,13 @@ HTML Themes and UI Kits to create your applications faster!
 <div align="center">
 
 <sub>Built by <a href="https://github.com/Tristan-DW">Tristan Wentzel</a></sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Architected by <a href="https://github.com/Tristan-DW">Tristan</a> &mdash; Head Architect</sub>
 
 </div>
